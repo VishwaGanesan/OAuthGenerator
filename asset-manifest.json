@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/OAuthGenerator/static/css/main.aeb1d389.chunk.css",
-    "main.js": "/OAuthGenerator/static/js/main.89add560.chunk.js",
-    "main.js.map": "/OAuthGenerator/static/js/main.89add560.chunk.js.map",
+    "main.js": "/OAuthGenerator/static/js/main.27e0fdeb.chunk.js",
+    "main.js.map": "/OAuthGenerator/static/js/main.27e0fdeb.chunk.js.map",
     "runtime-main.js": "/OAuthGenerator/static/js/runtime-main.0740e946.js",
     "runtime-main.js.map": "/OAuthGenerator/static/js/runtime-main.0740e946.js.map",
     "static/js/2.12952307.chunk.js": "/OAuthGenerator/static/js/2.12952307.chunk.js",
     "static/js/2.12952307.chunk.js.map": "/OAuthGenerator/static/js/2.12952307.chunk.js.map",
     "index.html": "/OAuthGenerator/index.html",
-    "precache-manifest.d47f62a7fe85ecfc82846ccab3ba24e0.js": "/OAuthGenerator/precache-manifest.d47f62a7fe85ecfc82846ccab3ba24e0.js",
+    "precache-manifest.0caf3229f58a983eef1136114e2c6b0b.js": "/OAuthGenerator/precache-manifest.0caf3229f58a983eef1136114e2c6b0b.js",
     "service-worker.js": "/OAuthGenerator/service-worker.js",
     "static/css/main.aeb1d389.chunk.css.map": "/OAuthGenerator/static/css/main.aeb1d389.chunk.css.map",
     "static/js/2.12952307.chunk.js.LICENSE.txt": "/OAuthGenerator/static/js/2.12952307.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0740e946.js",
     "static/js/2.12952307.chunk.js",
     "static/css/main.aeb1d389.chunk.css",
-    "static/js/main.89add560.chunk.js"
+    "static/js/main.27e0fdeb.chunk.js"
   ]
 }
