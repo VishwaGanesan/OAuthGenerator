@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OAuthGenerator/static/css/main.aeb1d389.chunk.css",
+    "main.js": "/OAuthGenerator/static/js/main.ff81a727.chunk.js",
+    "main.js.map": "/OAuthGenerator/static/js/main.ff81a727.chunk.js.map",
+    "runtime-main.js": "/OAuthGenerator/static/js/runtime-main.0740e946.js",
+    "runtime-main.js.map": "/OAuthGenerator/static/js/runtime-main.0740e946.js.map",
+    "static/js/2.5a6b5f76.chunk.js": "/OAuthGenerator/static/js/2.5a6b5f76.chunk.js",
+    "static/js/2.5a6b5f76.chunk.js.map": "/OAuthGenerator/static/js/2.5a6b5f76.chunk.js.map",
+    "index.html": "/OAuthGenerator/index.html",
+    "precache-manifest.9fd2492c8917866b6f930ea63f5cdb32.js": "/OAuthGenerator/precache-manifest.9fd2492c8917866b6f930ea63f5cdb32.js",
+    "service-worker.js": "/OAuthGenerator/service-worker.js",
+    "static/css/main.aeb1d389.chunk.css.map": "/OAuthGenerator/static/css/main.aeb1d389.chunk.css.map",
+    "static/js/2.5a6b5f76.chunk.js.LICENSE.txt": "/OAuthGenerator/static/js/2.5a6b5f76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0740e946.js",
+    "static/js/2.5a6b5f76.chunk.js",
+    "static/css/main.aeb1d389.chunk.css",
+    "static/js/main.ff81a727.chunk.js"
+  ]
+}
