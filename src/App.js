@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import InputCardComponent from "./InputForm";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import {useLocation,useParams} from "react-router";
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import {useLocation} from "react-router";
 import ResultDialogComponents from "./ResultDialog";
 
 
@@ -10,10 +10,10 @@ function App() {
     return (
         <Router>
             <Switch>
-                <Route path="/token">
+                <Route path="/OAuthGenerator/token">
                     <RouteComponents/>
                 </Route>
-                <Route path="/">
+                <Route path="/OAuthGenerator">
                     <InputCardComponent />
                 </Route>
             </Switch>

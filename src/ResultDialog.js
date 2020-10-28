@@ -69,7 +69,7 @@ class ResultDialogComponents extends Component
 
 
         //Redirect component from react-route-dom to redirect to home
-        currentComponent =  this.state.open ? alterDialog : <Redirect to="/"/>;
+        currentComponent =  this.state.open ? alterDialog : <Redirect to="/OAuthGenerator"/>;
 
         return (
            <div>
