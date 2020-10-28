@@ -1,26 +1,41 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import InputCardComponent from "./InputForm";
+import { BrowserRouter as Router, Route} from "react-router-dom";
+import {useLocation} from "react-router";
+import ResultDialogComponents from "./ResultDialog";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <Router basename={process.env.PUBLIC_URL}>
+                <Route exact path="/" component={RouteComponents} />
+        </Router>
+    );
+}
+
+
+//to fetch the query param
+function useQuery() {
+    /**
+     * useLocation.hash used for #& as starting
+     * useLocation.search used for ? as starting
+     */
+    return new URLSearchParams(useLocation().hash);
+}
+
+
+//To route the components based on query params
+function RouteComponents() {
+    let queryParams = useQuery();
+    let accessToken = queryParams.get("access_token");
+    let homeComponent = < InputCardComponent />;
+    if(accessToken != null)
+    {
+        homeComponent = <ResultDialogComponents accesstoken={accessToken}/>
+    }
+    return (
+        homeComponent
+    );
 }
 
 export default App;
