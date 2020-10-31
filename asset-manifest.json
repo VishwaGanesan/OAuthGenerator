@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/OAuthGenerator/static/css/main.aeb1d389.chunk.css",
-    "main.js": "/OAuthGenerator/static/js/main.27e0fdeb.chunk.js",
-    "main.js.map": "/OAuthGenerator/static/js/main.27e0fdeb.chunk.js.map",
+    "main.js": "/OAuthGenerator/static/js/main.deb3cb0e.chunk.js",
+    "main.js.map": "/OAuthGenerator/static/js/main.deb3cb0e.chunk.js.map",
     "runtime-main.js": "/OAuthGenerator/static/js/runtime-main.0740e946.js",
     "runtime-main.js.map": "/OAuthGenerator/static/js/runtime-main.0740e946.js.map",
-    "static/js/2.12952307.chunk.js": "/OAuthGenerator/static/js/2.12952307.chunk.js",
-    "static/js/2.12952307.chunk.js.map": "/OAuthGenerator/static/js/2.12952307.chunk.js.map",
+    "static/js/2.487f6007.chunk.js": "/OAuthGenerator/static/js/2.487f6007.chunk.js",
+    "static/js/2.487f6007.chunk.js.map": "/OAuthGenerator/static/js/2.487f6007.chunk.js.map",
     "index.html": "/OAuthGenerator/index.html",
-    "precache-manifest.0caf3229f58a983eef1136114e2c6b0b.js": "/OAuthGenerator/precache-manifest.0caf3229f58a983eef1136114e2c6b0b.js",
+    "precache-manifest.4e75b50f54a7c705099a3f74eb5631e4.js": "/OAuthGenerator/precache-manifest.4e75b50f54a7c705099a3f74eb5631e4.js",
     "service-worker.js": "/OAuthGenerator/service-worker.js",
     "static/css/main.aeb1d389.chunk.css.map": "/OAuthGenerator/static/css/main.aeb1d389.chunk.css.map",
-    "static/js/2.12952307.chunk.js.LICENSE.txt": "/OAuthGenerator/static/js/2.12952307.chunk.js.LICENSE.txt"
+    "static/js/2.487f6007.chunk.js.LICENSE.txt": "/OAuthGenerator/static/js/2.487f6007.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0740e946.js",
-    "static/js/2.12952307.chunk.js",
+    "static/js/2.487f6007.chunk.js",
     "static/css/main.aeb1d389.chunk.css",
-    "static/js/main.27e0fdeb.chunk.js"
+    "static/js/main.deb3cb0e.chunk.js"
   ]
 }
