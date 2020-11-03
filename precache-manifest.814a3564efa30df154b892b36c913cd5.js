@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "224794aa2b20550e843f7432842c8e6c",
+    "revision": "94e04b4b6697c2730772ed97dbb75a42",
     "url": "/OAuthGenerator/index.html"
   },
   {
-    "revision": "0a1c848bfb76ac62858b",
+    "revision": "1f33d11ecdd6de655fe7",
     "url": "/OAuthGenerator/static/css/main.cde45ab4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OAuthGenerator/static/js/2.c216a564.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a1c848bfb76ac62858b",
-    "url": "/OAuthGenerator/static/js/main.ebb188c4.chunk.js"
+    "revision": "1f33d11ecdd6de655fe7",
+    "url": "/OAuthGenerator/static/js/main.57a3e64f.chunk.js"
   },
   {
     "revision": "18690270c180bb569ce6",
